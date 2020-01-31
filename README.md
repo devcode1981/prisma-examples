@@ -1,4 +1,4 @@
-# Prisma Examples [![CircleCI](https://circleci.com/gh/prisma/prisma-examples.svg?style=shield)](https://circleci.com/gh/prisma/prisma-examples)
+# Prisma Examples [![CircleCI](https://circleci.com/gh/prisma/prisma-examples.svg?style=shield)](https://circleci.com/gh/prisma/prisma-examples) [![Greenkeeper badge](https://badges.greenkeeper.io/devcode1981/prisma-examples.svg)](https://greenkeeper.io/)
 
 This repository contains a number of ready-to-run examples demonstrating various use cases of [Prisma](https://www.prisma.io). Pick an example and follow the instructions in the corresponding README.
 
