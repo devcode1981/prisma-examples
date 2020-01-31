@@ -1,0 +1,24 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "flow/graphql/package.json",
+        "flow/script/package.json",
+        "node/cli-app/package.json",
+        "node/graphql-auth/package.json",
+        "node/graphql-schema-delegation/package.json",
+        "node/graphql-subscriptions/package.json",
+        "node/graphql/package.json",
+        "node/rest-express/package.json",
+        "node/script/package.json",
+        "typescript/circleci/package.json",
+        "typescript/cli-app/package.json",
+        "typescript/graphql-auth/package.json",
+        "typescript/graphql-schema-delegation/package.json",
+        "typescript/graphql-subscriptions/package.json",
+        "typescript/graphql/package.json",
+        "typescript/script/package.json"
+      ]
+    }
+  }
+}
